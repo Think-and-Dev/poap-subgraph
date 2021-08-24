@@ -1,0 +1,7 @@
+{
+    "network": "celo-alfajores",
+    "address": "0xdfc5ad68A2e7b7e453db3b48300A522bbcC2b43d",
+    "startBlock": 5809621,
+    "file": "Poap",
+    "tokenEvent": "EventToken(uint256,uint256)"
+  }

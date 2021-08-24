@@ -1,0 +1,7 @@
+{
+    "network": "celo",
+    "address": "",
+    "startBlock": 0,
+    "file": "Poap",
+    "tokenEvent": "EventToken(uint256,uint256)"
+  }
