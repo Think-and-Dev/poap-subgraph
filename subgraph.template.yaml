@@ -1,6 +1,6 @@
 specVersion: 0.0.2
 description: POAP
-repository: https://github.com/poap-xyz/poap-mainnet-subgraph
+repository: https://github.com/poap-xyz/poap-subgraph
 schema:
   file: ./schema.graphql
 dataSources:
