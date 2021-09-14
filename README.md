@@ -12,7 +12,7 @@ npx graph auth --product hosted-service <ACCESS_TOKEN>
 npx graph init --product hosted-service <GITHUB_USER>/<SUBGRAPH NAME>
 ```
 
-Available networks: mainnet, xdai, sokol, kovan, ropsten, celo-alfajores, celo
+Available networks: ethereum, xdai, sokol, kovan, ropsten, celo-alfajores, celo
 
 ```ssh
 yarn prepare:<network>
@@ -23,7 +23,7 @@ yarn deploy:<network>
 
 ## Deployments
 
-### Mainnet
+### Ethereum
 Endpoint: [https://api.thegraph.com/subgraphs/name/poap-xyz/poap](https://api.thegraph.com/subgraphs/name/poap-xyz/poap) \
 Subgraph page: [https://thegraph.com/explorer/subgraph/poap-xyz/poap](https://thegraph.com/explorer/subgraph/poap-xyz/poap)
 
